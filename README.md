@@ -48,7 +48,7 @@ dependencies {
 
 #### 一些示例图
 
-![本地路径](.\\picture\\browser1.png "架构图")
+![本地路径](browser1.png "架构图")
 
-![本地路径](.\\picture\\browser2.png "流程图——收藏功能")
+![本地路径](browser2.png "流程图——收藏功能")
 
