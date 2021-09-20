@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_english_name">My Broswer</string>
+    <string name="app_name">My</string>
+    <string name="search">搜索</string>
+    <string name="search_hint">搜索或输入网址</string>
+    <string name="to_login">立即登录</string>
+    <string name="add_into_collection">添加收藏</string>
+    <string name="my_collection">我的收藏</string>
+    <string name="history">历史记录</string>
+    <string name="collection">收藏</string>
+    <string name="exiting">退出</string>
+    <string name="setting_in_pop_window">设置</string>
+    <string name="cancel">取消</string>
+    <string name="save_successfully">保存成功</string>
+    <string name="save_photo">保存本地</string>
+    <string name="dialog_title">警告</string>
+    <string name="dialog_message">您访问的网页存在潜在危险，是否继续访问？</string>
+    <string name="OK">确认</string>
+    <string name="CANCEL">取消</string>
+    <string name="change_password">修改密码</string>
+    <string name="logoff_text">注销后会删除除历史记录外的所有用户数据</string>
+    <string name="logoff">注销</string>
+    <string name="reload">刷新</string>
+    <string name="confirm_password">验证密码</string>
+    <string name="yes">确认</string>
+    <string name="setting">设置</string>
+    <string name="phone_hint">请输入手机号</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="login_btn">登录</string>
+    <string name="login_back">login_back</string>
+    <string name="register_back">register_back</string>
+    <string name="register_text">注册</string>
+    <string name="register_password">请设置密码</string>
+    <string name="regesiter_password2_hint">请重复设置密码</string>
+    <string name="not_register">还没有账号？</string>
+    <string name="now_to_register">马上注册</string>
+    <string name="register_btn">注册</string>
+    <string name="now_to_login">立即登录</string>
+    <string name="have_registered">已有账号？</string>
+    <string name="delete_all">清空</string>
+    <string name="delete">删除</string>
+    <string name="logout">退出登录</string>
+    <string name="logout_text">退出后不会删除任何历史数据，下次登录依然可以使用本账号</string>
+    <string name="change_usr_name">修改昵称</string>
+    <string name="change_usr_password">修改密码</string>
+    <string name="usr_phone">手机号</string>
+    <string name="close_account">注销账号</string>
+    <string name="dark_mode">夜间模式</string>
+    <string name="wuhen_mode">无痕浏览</string>
+    <string name="delete_all_history_text">确认清空历史记录</string>
+    <string name="delete_all_collection_text">确认清空所有收藏</string>
+    <string name="login_text">登录后才能使用该功能</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_name_text">修改昵称</string>
+    <string name="change_name_btn">修改</string>
+    <string name="change_image_text">更换头像</string>
+    <string name="from_photo_text">从相册中选取</string>
+    <string name="take_photo_text">拍摄照片</string>
+    <string name="add_collection_successfully">添加收藏成功</string>
+    <string name="add_lnk">添加快捷</string>
+    <string name="quick_name">快捷网址名称</string>
+    <string name="quick_url">www.xxxx.com</string>
+
+
+    <string name="discover_title">vivo</string>
+    <string name="discover_content">以科技和时尚为消费者时刻创造非凡</string>
+    <string name="discover_culture_title">Culture</string>
+    <string name="discover_culture_content">vivo是一家以设计驱动创造伟大产品，打造以智能终端和智慧服务为核心的科技公司。</string>
+    <string name="discover_content_1"> 使命:
+        为用户，创造伟大的产品
+        为员工，营造快乐进取的氛围
+        为伙伴，建立互信共赢的平台
+        为股东，提供长期稳健的回报
+    </string>
+    <string name="discover_content_2">愿景:
+        成为更健康、更长久的世界一流企业
+        <br />
+        核心价值观:
+        本分、设计驱动、用户导向、学习、团队
+    </string>
+    <string name="discover_content_3">2020.11
+        vivo发布全新的手机操作系统——OriginOS
+    </string>
+    <string name="discover_content_4">2020.07<br />
+        位于vivo新工业园C区的全新vivo智能制造中心正式启用
+    </string>
+    <string name="discover_content_5">2018.03<br />
+        vivo发布AI品牌Jovi
+    </string>
+    <string name="discover_content_6">Daring to pursue true perfection,
+while continuously creating the surprising.
+    </string>
+</resources>
